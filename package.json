@@ -1,0 +1,23 @@
+{
+  "name": "whisper.io",
+  "version": "1.0.0",
+  "description": "Voice based dating platform",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vallleynl/whisper.io.git"
+  },
+  "keywords": [
+    "dating",
+    "platform"
+  ],
+  "author": "Marc Dalhuisen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vallleynl/whisper.io/issues"
+  },
+  "homepage": "https://github.com/vallleynl/whisper.io#readme"
+}

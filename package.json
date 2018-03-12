@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/vallleynl/whisper.io/issues"
   },
-  "homepage": "https://github.com/vallleynl/whisper.io#readme"
+  "homepage": "https://github.com/vallleynl/whisper.io#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
 }
